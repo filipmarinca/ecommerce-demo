@@ -1,36 +1,43 @@
-# 🛒 E-commerce Demo
+# E-commerce Demo
 
-A modern e-commerce demonstration application showcasing full-stack development skills.
+A modern e-commerce demo application showcasing product listings, shopping cart, and checkout flow.
+
+## 🚀 Features
+
+- Product catalog with categories
+- Shopping cart functionality
+- Add/remove items
+- Quantity adjustment
+- Checkout UI
+- Responsive design
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Next.js, TypeScript
-- **Backend:** Node.js, Express
-- **Database:** PostgreSQL
-- **Authentication:** JWT, RBAC
-- **Payment:** Stripe integration ready
+- **Framework:** Next.js 14
+- **State:** React useState
+- **Styling:** Tailwind CSS
 
-## 📋 Features
+## 📦 Installation
 
-- Product catalog with categories
-- Shopping cart
-- User authentication (JWT)
-- Admin dashboard
-- Order management
-- Responsive design
+```bash
+# Clone the repository
+git clone https://github.com/filipmarinca/ecommerce-demo.git
 
-## 👤 Developer
+# Navigate to the project
+cd ecommerce-demo
 
-**Filip Marinca** - Full Stack Developer with experience:
-- Full Stack Development (React, Next.js, Node.js)
-- E-commerce platforms
-- RESTful APIs
-- JWT Authentication & RBAC
+# Install dependencies
+npm install
 
-## 📧 Contact
+# Start development server
+npm run dev
+```
+
+## 📄 License
+
+MIT License
+
+## 👤 Contact
 
 - Email: filipmarinca@gmail.com
-- Phone: +40731201995
-
----
-⭐ Star this repo if you find it useful!
+- GitHub: https://github.com/filipmarinca
